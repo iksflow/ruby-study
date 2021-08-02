@@ -10,3 +10,6 @@ puts starray2[0]
 puts starray2[2]
 
 strarray3 = ['arr', 'baa']
+
+
+puts 'hello' unless false
