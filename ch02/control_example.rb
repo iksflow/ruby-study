@@ -15,3 +15,6 @@ while sum < 100 and num < 100
   num += 1
 end
 puts sum
+
+puts "Excellent" if true
+puts "Still good" unless false
