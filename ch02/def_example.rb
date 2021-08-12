@@ -8,3 +8,4 @@ end
 puts sum 3, 4
 puts sum(3, 4)
 puts sum2 3, 4
+puts sum2(3, 4)
