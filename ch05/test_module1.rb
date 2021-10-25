@@ -1,5 +1,5 @@
-module Test
-  def test_func(x)
-    puts "I'm test_module1.rb #{x}"
+module Tester
+  def Tester.test_func(x)
+    "I'm test_module1.rb #{x}"
   end
 end
