@@ -11,8 +11,17 @@
     </content>
     <orderEntry type="jdk" jdkName="asdf: 2.2.5" jdkType="RUBY_SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" scope="PROVIDED" name="gserver (v0.0.1, asdf: 2.2.5) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="power_assert (v0.2.6, asdf: 2.2.5) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="test-unit (v3.1.5, asdf: 2.2.5) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="Ascii85 (v1.0.3, asdf: 2.2.5) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="afm (v0.2.2, asdf: 2.2.5) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="bundler (v1.17.3, asdf: 2.2.5) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="colorize (v0.8.1, asdf: 2.2.5) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="hashery (v2.1.2, asdf: 2.2.5) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="mini_portile2 (v2.3.0, asdf: 2.2.5) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="nokogiri (v1.8.5, asdf: 2.2.5) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="origami (v2.1.0, asdf: 2.2.5) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="pdf-parser (v0.2.0, asdf: 2.2.5) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="pdf-reader (v2.6.0, asdf: 2.2.5) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="ruby-rc4 (v0.1.5, asdf: 2.2.5) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="ttfunk (v1.5.1, asdf: 2.2.5) [gem]" level="application" />
   </component>
 </module>
